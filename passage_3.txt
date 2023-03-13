@@ -1,3 +1,34 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Codespaces
+Marketplace
+Explore
+ 
+@PaulHermans-Baldwin 
+PaulHermans-Baldwin
+/
+wordle_v1
+Public
+Cannot fork because you own this repository and are not a member of any organizations.
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+wordle_v1/passage_3.txt
+@PaulHermans-Baldwin
+PaulHermans-Baldwin Upload text files
+Latest commit cb55f4b on Mar 3, 2022
+ History
+ 1 contributor
+6519 lines (6329 sloc)  484 KB
+
 SOURCE: David Eddings - Pawn of Prophecy
 
 David Eddings
@@ -4668,7 +4699,7 @@ heavier.
 "I didn't bother to ask permission," Garion said.
 The red-haired boy glowered, flexing his muscles threateningly.
 "I can thrash you if I like," he announced.
-Garion realized that the redhead was feeling belligerent and that a fight was inevitable. The preliminariesthreats,
+Garion realized that the redhead was feeling belligerent and that a fight was inevitable. The preliminaries threats,
 insults and the likewould probably go on for several more minutes, but the fight would take place
 as soon as the boy in the long tunic had worked himself up to it. Garion decided not to wait. He doubled his
 fist and punched the larger boy in the nose.
@@ -6517,3 +6548,18 @@ Here ends Book One of the Belgariad. Book Two, Queen of Sorcery
 will reveal Garion's own dangerous powers of sorcery and more on his heritage, which underlies their
 quest.
  
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+wordle_v1/passage_3.txt at main · PaulHermans-Baldwin/wordle_v1
