@@ -1,34 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@PaulHermans-Baldwin 
-PaulHermans-Baldwin
-/
-wordle_v1
-Public
-Cannot fork because you own this repository and are not a member of any organizations.
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-wordle_v1/passage_3.txt
-@PaulHermans-Baldwin
-PaulHermans-Baldwin Upload text files
-Latest commit cb55f4b on Mar 3, 2022
- History
- 1 contributor
-6519 lines (6329 sloc)  484 KB
-
 SOURCE: David Eddings - Pawn of Prophecy
 
 David Eddings
@@ -186,7 +155,7 @@ Now when Polgara and Beldaran had reached their sixteenth year, the Spirit of Al
 a dream, saying, "My beloved disciple, I would join thy house with the house of the guardian of the Orb.
 Choose, therefore, which of thy daughters thou wilt give to the Rivan King to be his wife and the mother of
 his line, for in that line lies the hope of the world, against which the dark power of Torak may not prevail."
- 
+
 In the deep silence of his soul, Belgarath was tempted to choose Polgara. But, knowing the burden which
 lay upon the Rivan King, he sent Beldaran instead, and wept when she was gone. Polgara wept also, long
 and bitterly, knowing that her sister must fade and die. In time, however, they comforted each other and
@@ -207,7 +176,7 @@ into loaves and chickens were cut up and carrots and celery were diced with quic
 movements of long, curved knives. When Garion was very small, he played under those tables and soon
 learned to keep his fingers and toes out from under the feet of the kitchen helpers who worked around
 them. And sometimes in the late afternoon when he grew tired, he would lie in a corner and stare into one
- 
+
 of the flickering fires that gleamed and reflected back from the hundred polished pots and knives and longhandled
 spoons that hung from pegs along the whitewashed walls and, all bemused, he would drift off into
 sleep in perfect peace and harmony with all the world around him.
@@ -257,7 +226,7 @@ in the tavern in the nearby village of Upper Gralt in minute descriptions of the
 served regularly in Faldor's dining hall. Less fortunate men who worked at other farms were frequently
 seen, after several pots of ale, to weep openly at descriptions of one of Aunt Pol's roasted geese, and the
 fame of Faldor's farm spread wide throughout the district.
- 
+
 The most important man on the farm, aside from Faldor, was Durnik the smith. As Garion grew older and
 was allowed to move out from under Aunt Pol's watchful eye, he found his way inevitably to the smithy.
 The glowing iron that came from Durnik's forge had an almost hypnotic attraction for him. Durnik was an
@@ -298,7 +267,7 @@ on either side would have instantly banished him from the smithy. As Aunt Pol wa
 hard-packed dirt of the yard toward her kitchen with the new-mended kettle, he noticed the way that Durnik
 watched her, and an idea began to form in his mind. It was a simple idea, and the beauty of it was that it
 provided something for everyone.
- 
+
 "Aunt Pol," he said that night, wincing as she washed one of his ears with a rough cloth.
 "Yes?" she said, turning her attention to his neck.
 "Why don't you marry Durnik?"
@@ -326,7 +295,7 @@ obliquely.
 "Yes?"
 "Close your mouth and go to sleep."
 "I think I've got a right to know," he said in an injured tone.
- 
+
 "Garion!"
 "All right. I'm going to sleep, but I don't think you're being very fair about all this."
 She drew in a deep breath. "Very well," she said. "I'm not thinking of getting married. I have never thought
@@ -400,7 +369,7 @@ Garion turned to point at the dark-cloaked man, but the rider was gone.
 "I didn't see anyone," Rundorig said.
 "It hurts," Doroon said.
 "Don't worry," Garion said. "Aunt Pol will fix it."
- 
+
 And so she did. When the three appeared at the door of her kitchen, she took in the situation with a single
 glance.
 "Bring him over here," she told them, her voice not even excited. She set the pale and violently trembling
@@ -433,7 +402,7 @@ look for her."
 "Garion," Aunt Pol said, "I didn't ask you if you knew where to look. I told you to find her and bring her to
 me."
 "What if she won't come?" Garion hedged.
- 
+
 "Garion!" There was a note of awful finality in Aunt Pol's tone, and Garion fled.
 "I didn't have anything to do with it," Zubrette lied as soon as Garion led her to Aunt Pol in the kitchen.
 "You," Aunt Pol said, pointing at a stool, "sit!"
@@ -467,7 +436,7 @@ and Nadraks and Thulls had struck down across the mountains of the eastern escar
 behind them in endless waves had come the uncountable numbers of the Malloreans.
 After Drasnia had been brutally crushed, the Angaraks had turned southward onto the vast grasslands of
 Algaria and had laid siege to that enormous fortress called the Algarian Stronghold. The siege had lasted
- 
+
 for eight years until finally, in disgust, Kal Torak had abandoned it. It was not until he turned his army
 westward into Ulgoland that the other kingdoms became aware that the Angarak invasion was directed not
 only against the Alorns but against all of the west. In the summer of 4875 Kal Torak had come down upon
@@ -508,7 +477,7 @@ He never knew afterward quite what happened. He had only sketchy memories of sho
 Torak in words which sprang to his lips and which even he did not understand. Rundorig's familiar and
 somewhat foolish face was no longer the face before him but rather was replaced by something hideously
 maimed and ugly. In a fury Garion struck at that face again and again with fire seething in his brain.
- 
+
 And then it was over. Poor Rundorig lay at his feet, beaten senseless by the enraged attack. Garion was
 horrified at what he had done, but at the same time there was the fiery taste of victory in his mouth.
 Later, in the kitchen, where all injuries on the farm were routinely taken, Aunt Pol tended their wounds
@@ -541,7 +510,7 @@ depends on it. I want your promise."
 "A very foolish one," Aunt Pol said. "You might have killed Rundorig."
 "What about me?" Garion protested.
 "You were never in any danger," she told him. "Now go to sleep."
- 
+
 And as he dozed fitfully, his head light from his injury and the strange, bitter drink his aunt had given him,
 he seemed to hear her deep, rich voice saying, "Garion, my Garion, you're too young yet." And later, rising
 from deep sleep as a fish rises toward the silvery surface of the water, he seemed to hear her call, "Father, I
@@ -588,7 +557,7 @@ and if she watched him with steely eye, he found quite easily a dozen confederat
 kitchen in exchange for a single story.
 Lamentably, among his most able pupils was the boy Garion. Often, driven to distraction by the necessity
 of watching at once an old thief and a fledgling one, Aunt Pol would arm herself with a broom and drive
- 
+
 them both from her kitchen with hard words and resounding blows. And the old storyteller, laughing,
 would flee with the boy to some secluded place where they would feast on the fruits of their pilferage and
 the old man, tasting frequently from a flagon of stolen wine or beer, would regale his student with stories
@@ -629,7 +598,7 @@ mantle about her and stood very straight, her eyes intent.
 of a globe, and behold, in the jewel was captured the light of certain stars that did glitter in the northern
 sky. And great was the enchantment upon the jewel which men called the Orb of Aldur, for with the Orb
 could Aldur see that which had been, that which was, and that which was yet to be."
- 
+
 Garion realized he was holding his breath, for he was now completely caught up in the story. He listened in
 wonder as Torak stole the Orb and the other Gods made war on him. Torak used the Orb to sunder the earth
 and let in the sea to drown the land, until the Orb struck back against misuse by melting the left side of his
@@ -669,7 +638,7 @@ time if it is not to be lost-besides, who knows these days where a king might be
 They all laughed at that and began to push back their benches, for it was growing late and time for those
 who must be up with the first light of the sun to seek their beds.
 "Will you carry a lantern for me to the place where I sleep, boy?" the storyteller asked Garion.
- 
+
 "Gladly," Garion said, jumping up and running into the kitchen. He fetched down a square glass lantern,
 lighted the candle inside it from one of the banked kitchen fires, and went back into the dining hall.
 Faldor was speaking with the storyteller. As he turned away, Garion saw a strange look pass between the
@@ -701,7 +670,7 @@ old Weldrik over on Mildrin's farm. Durnik says he's over ninety and that he's t
 district."
 "And it's a very big district, of course," the old man said solemnly.
 "How old are you?" Garion asked, not wanting to give up.
- 
+
 "Old enough, boy," the old man said.
 "It's still only a story," Garion insisted.
 "Many good and solid men would say so," the old man told him, looking up at the stars, "good men who
@@ -733,7 +702,7 @@ Aunt Pol thought a moment. "Some of my spice pots are a bit low," she said, "and
 merchant in Fennel Lane just south of the Town Tavern. I'm sure you'll have no trouble finding the tavern."
 "The trip is likely to be dry," the old man admitted pleasantly. "And lonely, too. Ten leagues with no one to
 talk to is a long way."
- 
+
 "Talk to the birds," Aunt Pol suggested bluntly.
 "Birds listen well enough," the old man said, "but their speech is repetitious and quickly grows tiresome.
 Why don't I take the boy along for company?"
@@ -766,7 +735,7 @@ Garion, hoping to nudge the old man into a story to make the miles go faster, be
 "Why is it that you have no name - if I'm not being impolite in asking?"
 "I have many names," the old man said, scratching his white beard. "Almost as many names as I have
 years."
- 
+
 "I've only got one," Garion said.
 "So far."
 "What?"
@@ -799,7 +768,7 @@ They came over the crest of a long hill, and there in the next valley lay the vi
 Garion the tiny cluster of gray stone houses with slate roofs seemed disappointingly small. Two roads,
 white with thick dust, intersected there, and there were a few narrow, winding streets besides. The houses
 were square and solid, but seemed almost like toys set down in the valley below. The horizon beyond was
- 
+
 ragged with the mountains of eastern Sendaria, and, though it was summer, the tops of most of the
 mountains were still wrapped in snow.
 Their tired horse plodded down the hill toward the village, his hooves stirring little clouds of dust with each
@@ -836,7 +805,7 @@ but she and I had that particular argument out, many years ago." The old man see
 Garion's lack of education.
 Garion, however, was far too interested in the smoky interior of the tavern to pay much attention. The room
 was large and dark with a low, beamed ceiling and a stone floor strewn with rushes. Though it was not
- 
+
 cold, a fire burned in a stone pit in the center of the room, and the smoke rose errantly toward a chimney set
 above it on four square stone pillars. Tallow candles guttered in clay dishes on several of the long, stained
 tables, and there was a reek of wine and stale beer in the air.
@@ -867,7 +836,7 @@ hurry to revisit. Shall we go?" He laid down a few coins, which the sour-looking
 and led Garion back out into the afternoon sunlight.
 "Let's find your Aunt's spice merchant," he said, "and then see to a night's lodging-and a stable for our
 horse." They set off down the street, leaving horse and cart beside the tavern.
- 
+
 The house of the Tolnedran spice merchant was a tall, narrow building in the next street. Two swarthy,
 thick-bodied men in short tunics lounged in the street at his front door near a fierce-looking black horse
 wearing a curious armored saddle. The two men stared with dull-eyed disinterest at passers-by in the lane.
@@ -901,7 +870,7 @@ the list and presented it to the Tolnedran.
 The merchant glanced at the list. "This will only take a moment," he told the Murgo.
 The Murgo nodded and stood staring stonily at Wolf and Garion. His eyes narrowed slightly, and his
 expression changed. "You're a seemly appearing boy," he said to Garion. "What's your name?"
- 
+
 Until that moment, in his entire life, Garion had been an honest and truthful boy, but Wolf's manner had
 opened before his eyes an entire world of deception and subterfuge. Somewhere in the back of his mind he
 seemed to hear a warning voice, a dry, calm voice advising him that the situation was dangerous and that he
@@ -934,7 +903,7 @@ ought to do the same. Was what I did wrong?"
 Let's fetch our horse and cart. It's a long way back to Faldor's farm."
 "I thought we were going to take lodgings for the night."
 "That's changed now. Come along, boy. It's time for us to leave."
- 
+
 The horse was very tired, and he moved slowly up the long hill out of Upper Gralt as the sun went down
 ahead of them.
 "Why wouldn't you let me keep the Angarak penny, Mister Wolf?" Garion persisted. The subject still
@@ -967,7 +936,7 @@ that they were just simple village people - a young man with a young wife and th
 ever saw. That's all anyone was ever supposed to see."
 "I don't understand."
 "It's very complicated."
- 
+
 "What was my father like?"
 "Medium size," Wolf said. "Dark hair. A very serious young man. I liked him."
 "Did he love my mother?"
@@ -1000,7 +969,7 @@ responsibility and a great care placed upon us, and we mustn't allow ourselves t
 "Will you be gone long?" Aunt Pol asked.
 "Some years, I expect. There are many things I must look into and many people I'll have to see."
 "I'll miss you," Aunt Pol said softly.
- 
+
 He laughed. "Sentimentality, Pol?" he said dryly. "That's hardly in character."
 "You know what I mean. I'm not suited for this task you and the others have given me. What do I know
 about the raising of small boys?"
@@ -1033,7 +1002,7 @@ quite suddenly decided once and for all to revert to its original state. The bin
 logs began to go their separate ways.
 Realizing his danger only at the last moment, Garion made a desperate effort to pole for shore, but his haste
 only made the disintegration of his craft more rapid. In the end he found himself standing on a single log,
- 
+
 his arms windmilling wildly in a futile effort to retain his balance. His eyes, desperately searching for some
 aid, swept the marshy shore. Some distance up the slope behind his playmates he saw the familiar figure of
 the man on the black horse. The man wore a dark robe, and his burning eyes watched the boy's plight. Then
@@ -1072,7 +1041,7 @@ He looked at her helplessly.
 And then with a low cry she took him in her arms and crushed him to her almost suffocatingly.
 Briefly Garion considered telling her about the strange, shadowless figure that had watched his struggles in
 the pond, but the dry voice in his mind that sometimes spoke to him told him that this was not the time for
- 
+
 that. He seemed to know somehow that the business between him and the man on the black horse was
 something very private, and that the time would inevitably come when they would face each other in some
 kind of contest of will or deed. To speak of it now to Aunt Pol would involve her in the matter, and he did
@@ -1113,7 +1082,7 @@ angry about that, because she can get angrier faster than anybody else I've ever
 really looked closely at it before. It covered the entire palm of his hand and had in certain light a faint
 silvery sheen.
 "Maybe it's a birthmark," Zubrette suggested.
- 
+
 "I'll bet that's it," Doroon said quickly. "I saw a man once that had a big purple one on the side of his faceone
 of those wagoneers that comes by to pick up the turnip crop in the fall - anyway, the mark was all over
 the side of his face, and I thought it was a big bruise at first and thought that he must have been in an awful
@@ -1146,7 +1115,7 @@ to bed."
 "You'll be here?" he asked, a little frightened now.
 "I'll always be here," she said, tucking him in. And then she went back to brushing her long, thick hair,
 humming a strange song as she did in a deep, melodious voice; to that sound he fell asleep.
- 
+
 After that not even Garion himself saw the mark on his own palm very often. There suddenly seemed to be
 all kinds of dirty jobs for him to do which kept not only his hands, but the rest of him as well, very dirty.
 The most important holiday in Sendaria - and indeed in the rest of the kingdoms of the west - was Erastide.
@@ -1191,7 +1160,7 @@ heavy cloaks, lounged disinterestedly against the wagon, seemingly indifferent t
 across the snowy fields.
 Faldor, in his finest doublet - it was after all Erastide - came across the yard, closely followed by Anhelda
 and Eilbrig.
- 
+
 "Good morrow, friend," Faldor said to the Murgo. "Joyous Erastide to you."
 The Murgo grunted. "You are, I take it, the farmer Faldor?" he asked in his heavily accented voice.
 "I am," Faldor replied.
@@ -1223,7 +1192,7 @@ The Murgo thought for a moment. "It may be as you say," he said finally. "I will
 provided that we can do business as early as possible tomorrow."
 Faldor bowed. "I'll place myself at your service at first light tomorrow if you so desire."
 "Done, then," the Murgo said, climbing down from his wagon.
- 
+
 That afternoon the feast was laid in the dining hall. The kitchen helpers and a half dozen others who had
 been pressed into service for the special day scurried from kitchen to hall bearing smoking roasts, steaming
 hams and sizzling geese all under the lash of Aunt Pol's tongue. Garion observed sourly as he struggled
@@ -1260,7 +1229,7 @@ Garion, seated at the next table, kept his face to his plate and listened so har
 be growing.
 "We have a boy named Rundorig here," Faldor said. "That tall lad at the end of the far table over there." He
 pointed.
- 
+
 "No," the Murgo said, looking hard at Rundorig. "That isn't the boy who was described to me."
 "It's not an uncommon name among the Arends," Faldor said. "Quite probably your friend met a pair from
 another farm."
@@ -1297,7 +1266,7 @@ this world to be."
 command this world to be." And so it went down the line, Chaldan, Issa, Nedra, Mara and then finally the
 last figure, which, unlike the others, was robed in black and whose mask was made of steel instead of
 painted wood.
- 
+
 "I am Torak," Durnik's voice came hollowly from behind the mask, "Dragon-God of the Angaraks, and I
 command this world to be."
 A movement caught Garion's eye, and he looked quickly. The Murgo had covered his face with his hands
@@ -1338,7 +1307,7 @@ Zubrette, of course, flirted outrageously with all three of them, and positively
 each other in her presence. Rundorig's duties in the fields kept him away most of the time, but Doroon was
 a serious worry to Garion. He became quite nervous and frequently found excuses to go about the
 compound to make certain that Doroon and Zubrette were not alone together.
- 
+
 His own campaign was charmingly simple - he resorted to bribery. Zubrette, like all little girls, was fond of
 sweets, and Garion had access to the entire kitchen. In a short period of time they had worked out an
 arrangement. Garion would steal sweets from the kitchen for his sunnyhaired playmate, and in return she
@@ -1369,7 +1338,7 @@ happy-go-lucky cheerfulness had been replaced by a somber mood Garion had never 
 "Has it been so long?"
 Garion nodded, falling into step beside his friend.
 "Is everyone well?" Wolf asked.
- 
+
 "Oh yes," Garion said. "Everything's the same here-except that Breldo got married and moved away, and
 the old brown cow died last summer."
 "I remember the cow," Wolf said. Then he said, "I must speak with your Aunt Pol."
@@ -1403,7 +1372,7 @@ soon as possible. His theft won't be complete so long as he stays in the west."
 "He could already be in the Angarak kingdoms."
 "That's not likely. The distances are great; but if he is, I'll have to follow him. I'll need your help."
 "But how can I leave here?" Aunt Pol asked. "I have to watch over the boy."
- 
+
 Garion's curiosity was becoming almost unbearable. He edged closer to the kitchen door.
 "The boy'll be safe enough here," Wolf said. "This is an urgent matter."
 "No," Aunt Pol contradicted. "Even this place isn't safe. Last Erastide a Murgo and five Thulls came here.
@@ -1437,7 +1406,7 @@ He turned and looked exultantly up at the clouds scudding across the evening sky
 was turned, he did not see Aunt Pol approach through the kitchen door.
 "The garden, as I recall, lies beyond the south wall," she pointed out.
 Garion started guiltily.
- 
+
 "How is it that the carrots remain undug?" she demanded.
 "I had to look for the spade," he said unconvincingly.
 "Really? I see that you found it, however." Her eyebrows arched dangerously.
@@ -1472,7 +1441,7 @@ will be the same as mine. Your stomach will never know the difference."
 "Don't be silly," she said gently. "Now I must see to supper." Garion moved quickly away from the foot of
 the stairs. Troubled, he put his spade back in the shed and fetched the pail of carrots he had left sitting by
 the gate. To reveal to his Aunt that he had seen Brill listening at the door would immediately raise
- 
+
 questions about his own activities that he would prefer not to have to answer. In all probability Brill was
 merely curious, and there was nothing menacing or ominous about that. To observe the unsavory Brill
 duplicating his own seemingly harmless pastime, however, made Garion quite uncomfortable - even
@@ -1513,7 +1482,7 @@ companions were out of sight; then he fell to his knees and began to gather up g
 flowers.
 "He heard a sound behind him and he turned. What he saw it is best not to say. Dropping all his gold, he
 bolted.
- 
+
 "Now the river they had heard cut through a gorge just about there, and his two companions were amazed
 to see him run off the edge of that gorge and even continue to run as he fell, his legs churning insubstantial
 air. Then they turned, and they saw what had been pursuing him.
@@ -1551,7 +1520,7 @@ might not be important," he said carefully, "but this afternoon, when I was comi
 saw Brill following you, Aunt Pol."
 She turned and looked at him. Wolf set down his tankard.
 "Go on, Garion," Aunt Pol said.
- 
+
 "It was when you went up to talk with Faldor," Garion explained. "He waited until you'd gone up the stairs
 and Faldor had let you in. Then he sneaked up and listened at the door. I saw him up there when I went to
 put the spade away."
@@ -1582,7 +1551,7 @@ It was totally dark in the room, and the sour stink of Brill's unwashed clothes 
 scrape of flint against steel and a flare of sparks. A wisp of frayed rope caught the sparks and began to
 glow. Wolf blew on the spark for a second, and it flared into flame. He raised the burning wisp over his
 head and looked around the empty room.
- 
+
 The floor and bed were littered with rumpled clothes and personal belongings. Garion knew instantly that
 this was not simple untidiness, but rather was the sign of a hasty departure, and he did not know exactly
 how it was that he knew.
@@ -1617,7 +1586,7 @@ from Brill's hand. Brill turned on him, enraged, and Durnik's second blow took t
 ribs, a little below the armpit. The breath whooshed from Brill's lungs, and he collapsed, gasping and
 writhing to the straw-littered floor.
 "For shame, Garion," Durnik said reproachfully. "I didn't make that knife of yours for this kind of thing."
- 
+
 "He was going to kill Mister Wolf," Garion protested.
 "Never mind that," Wolf said, bending over the gasping man on the floor of the stable. He searched Brill
 roughly and pulled a jingling purse out from under the stained tunic. He carried the purse to the lantern and
@@ -1650,7 +1619,7 @@ Aunt Pol turned on Garion, her eyes ablaze. Garion prudently stepped back out of
 "There's no time for that," Wolf said, retrieving the tankard he had set down before leaving the kitchen.
 "Brill had a pouchful of good red Angarak gold. The Murgos have set eyes to watching this place. I'd
 wanted to make our going less noticeable, but since we're already being watched, there's no point in that
- 
+
 now. Gather what you and the boy will need. I want a few leagues between us and Brill before he manages
 to free himself. I don't want to be looking over my shoulder for Murgos every place I go."
 Durnik, who had just come into the kitchen, stopped and stood staring at them.
@@ -1683,7 +1652,7 @@ Garion's mind whirled. Things were happening far too fast.
 "You will in time, Garion," Wolf said. "For now it's better perhaps that you don't. There's danger in what
 we're doing, but not all that great a danger. Your Aunt and I - and good Durnik, of course - will see that no
 harm comes to you. Now help me in the pantry." He took a lantern into the pantry and began loading some
- 
+
 loaves of bread, a ham, a round yellow cheese and several bottles of wine into a sack which he took down
 from a peg.
 It was nearly midnight, as closely as Garion could tell, when they quietly left the kitchen and crossed the
@@ -1719,7 +1688,7 @@ when they reached the black edge of the woods, he was almost ready to weep with 
 And he set off again, following the edge of the dark woods, with Garion and the others stumbling along
 behind him. "Here we are," he said finally, stopping to allow them to catch up. "It's going to be very dark in
 there, and the track isn't wide. I'll go first, and the rest of you follow me."
- 
+
 "I'll be right behind you, Garion," Durnik said. "Don't worry. Everything will be all right." There was a note
 in the smith's voice, however, that hinted that his words were more to reassure himself than to calm the
 boy.
@@ -1758,7 +1727,7 @@ scarcely taller than Garion himself, and his face was dominated by a long pointe
 small and squinted, and his straight, black hair was raggedly cut. The face was not the sort to inspire
 confidence, and the man's stained and patched tunic and short, wicked-looking sword did little to contradict
 the implications of the face.
- 
+
 "Here's our rabbit," the small, weasel-like man announced as he pulled Garion into the circle of the
 firelight. "And a merry chase he led me, too."
 Aunt Pol was furious.
@@ -1789,7 +1758,7 @@ name, since the boy there gave it to me."
 "Mister Wolf?" Silk asked, and then he laughed again. "What a merry name for you, old friend."
 "I'm delighted that you find it so, old friend," Wolf said flatly. "Mister Wolf it shall be, then," Silk said.
 "Come to the fire, friends. Warm yourselves, and I'll see to some food."
- 
+
 Garion was still uncertain about the oddly matched pair. They obviously knew Aunt Pol and Mister Wolf -
 and just as obviously by different names. The fact that Aunt Pol might not be whom he had always thought
 she was was very disturbing. One of the foundation stones of his entire life had just disappeared.
@@ -1823,7 +1792,7 @@ in the village of Winold."
 "We should look the part," Wolf said carefully, eyeing Barak up and down. "Your armor, my friend, is not
 the sort of garb an honest wagoneer would wear. I think you should change it for stout wool."
 Barak's face looked injured.
- 
+
 "I could wear a tunic over it," he suggested tentatively.
 "You rattle," Silk pointed out, "and armor has a distinctive fragrance about it. From the downwind side you
 smell like a rusty ironworks, Barak."
@@ -1854,7 +1823,7 @@ fire hissed when the water struck it, and great clouds of steam boiled up toward
 The horses seemed almost eager to start and moved without urging along a narrow track through the dark
 woods. They stopped at the edge of the open fields, and Wolf looked around carefully to see if anyone was
 in sight.
- 
+
 "I don't see anybody," he said. "Let's get moving."
 "Ride with me, good smith," Barak said to Durnik. "Conversation with an honest man is much preferable to
 a night spent enduring the insults of an over-clever Drasnian."
@@ -1893,7 +1862,7 @@ anything."
 "I was merely asking," Aunt Pol said.
 "If he hasn't gone through Darine, we'll turn south - to Muros. He may have joined a caravan there to take
 the Great North Road to Boktor."
- 
+
 "And if he hasn't gone through Muros?"
 "Then we go on to Camaar."
 "And then?"
@@ -1926,7 +1895,7 @@ Aunt Pol became waspish and short-tempered.
 "Everything is idiocy if you choose to look at it in the proper light," he replied philosophically.
 "Why wagoneers?" she demanded. "There are faster ways to travels wealthy family in a proper carriage, for
 instance, or Imperial messengers on good horses - either way would have put us in Darine by now."
- 
+
 "And left a trail in the memories of all these simple people we've passed so wide that even a Thull could
 follow it," Wolf explained patiently. "Brill has long since reported our departure to his employers. Every
 Murgo in Sendaria is looking for us by now."
@@ -1961,7 +1930,7 @@ hand."
 "Honest wagoneers would seek out an inn," Mister Wolf agreed, "and a warm taproom."
 "I might have guessed that," Aunt Pol said.
 "We have to try to look the part." Wolf shrugged.
- 
+
 They went on down the hill, the horses' hooves slipping and sliding as they braced back against the weight
 of the wagons.
 At the city gate two watchmen in stained tunics and wearing rustspotted helmets came out of the tiny watch
@@ -1994,7 +1963,7 @@ to fade.
 just all in a hurry. They have important affairs to attend to and they're afraid they'll be late. That's all."
 "I don't think I'd like to live here," Garion said. "It seems like a bleak, unfriendly kind of place." He sighed.
 "Sometimes I wish we were all back at Faldor's farm."
- 
+
 "There are worse places than Faldor's," Wolf agreed.
 The inn Silk chose for them was near the docks, and the smell of the sea and the rank detritus of the
 meeting of sea and land was strong there. The inn, however, was a stout building with stables attached and
@@ -2031,7 +2000,7 @@ went down to look after the horses, he accompanied him instead.
 cuts or stone bruises, "does all this seem strange to you?"
 Durnik carefully lowered the leg of the patient horse he was checking.
 "All what, Garion?" he asked, his plain face sober.
- 
+
 "Everything," Garion said rather vaguely. "This journey, Barak and Silk, Mister Wolf and Aunt Pol - all of
 it. They all talk sometimes when they don't think I can hear them. This all seems terribly important, but I
 can't tell if we're running away from someone or looking for something."
@@ -2065,7 +2034,7 @@ lazy, and she finally went off to live with her youngest daughter. After that, M
 that first day."
 "I'm sure it only seems that way," Garion said. "Everybody gets older."
 "Not Mistress Pol," Durnik said.
- 
+
 That evening Wolf and his sharp-nosed friend returned, their faces somber.
 "Nothing," Wolf announced shortly, scratching at his snowy beard.
 "I might have told you that," Aunt Pol sniffed.
@@ -2095,7 +2064,7 @@ She considered for a moment. "I don't suppose it would do any harm," she said, "
 attend to some things."
 The next morning after breakfast Silk and Garion set out with Garion carrying a bag of turnips. The small
 man seemed to be in extraordinarily good spirits, and his long, pointed nose seemed almost to quiver. "The
- 
+
 whole point," he said as they walked along the littered, cobblestoned streets, "is not to appear too eager to
 sell - and to know the market, of course."
 "That sounds reasonable," Garion said politely.
@@ -2128,7 +2097,7 @@ advantage over me by flattering you."
 "I'll tell him many things," Silk went on, talking very rapidly now. His eyes seemed to glitter, and his nose
 was actually twitching. "Pay no attention to what I say, and don't let any surprise show on your face. He'll
 be watching us both very closely."
- 
+
 "You're going to lie?" Garion was shocked.
 "It's expected," Silk said. "The merchant will also lie. The one of us who lies the best will get the better of
 the bargain."
@@ -2161,7 +2130,7 @@ slow to learn."
 "Ah," the merchant said, sounding slightly disappointed.
 Then Silk made a curious gesture with the fingers of his right hand. The merchant's eyes widened slightly,
 then he too gestured.
- 
+
 After that, Garion had no idea of what was going on. The hands of Silk and the merchant wove intricate
 designs in the air, sometimes flickering so rapidly that the eye could scarce follow them. Silk's long,
 slender fingers seemed to dance, and the merchant's eyes were fixed upon them, his forehead breaking into
@@ -2193,7 +2162,7 @@ Silk shrugged. "As you wish," he said. "It won't be easy, but it will help pass 
 "Are we going back to the inn now?" Garion asked.
 "Not right away," Silk said. "We'll need a cargo to explain our entry into Muros."
 "I thought we were going to leave with the wagons empty."
- 
+
 "We are."
 "But you just said-"
 "We'll see a merchant I know," Silk explained. "He buys farm goods all over Sendaria and has them held on
@@ -2229,7 +2198,7 @@ merchant to begin recouping his losses."
 "You're too kind, worthy Asharak," Silk said, bowing again. Garion's mind was shrieking all kinds of
 warnings, but the Murgo's sharp eyes made it impossible for him to make the slightest gesture to Silk. He
 kept his face impassive and his eyes dull even as his thoughts raced.
- 
+
 "I would gladly help you, my friend," Mingan said, "but I have no cargo in Darine at the moment."
 "I'm already committed from Darine to Medalia," Silk said quickly. "Three wagonloads of Cherek iron.
 And I also have a contract to move furs from Muros to Camaar. It's the fifty leagues from Medalia to Muros
@@ -2265,7 +2234,7 @@ Mingan nodded. "I'll give you a contract to move my hams to Muros," he offered. 
 wagonload."
 "Tolnedran nobles or Sendarian?" Silk asked quickly.
 "This is Sendaria, worthy Ambar."
- 
+
 "We're citizens of the world, noble merchant," Silk pointed out. "Transactions between us have always
 been in Tolnedran coin."
 Mingan sighed. "You were ever quick, worthy Ambar," he said."Very well, Tolnedran nobles - because we
@@ -2296,7 +2265,7 @@ AFTER THE FIRST DAY the wind blew itself out, and the pale autumn sun reappeared
 southward led them along the Darine River, a turbulent stream that rushed down from the mountains on its
 way to the Gulf of Cherek. The country was hilly and timbered but, since the wagons were empty, their
 horses made good time.
- 
+
 Garion paid scant attention to the scenery as they trundled up the valley of the Darine. His attention was
 riveted almost totally on Silk's flickering fingers.
 "Don't shout," Silk instructed as Garion practiced.
@@ -2327,7 +2296,7 @@ They all stopped talking and listened to the faint drumming sound on the road th
 sword.
 "Four," Silk said. He stepped to his own wagon and took his own sword out from under the seat.
 "We're far enough from the road," Wolf said. "If we stay still, they'll pass without seeing us."
- 
+
 "That won't hide us from Grolims," Aunt Pol said. "They won't be searching with their eyes." She made
 two quick gestures to Wolf which Garion did not recognize.
 No, Wolf gestured back. Let us instead - He also made an unrecognizable gesture.
@@ -2366,7 +2335,7 @@ made some pretext about checking the horses and went outside. It was not that he
 deliberately deceptive, but it had occurred to him in the last day or so that he had not had a single moment
 alone since they had left Faldor's farm. He was not by nature a solitary boy, but he had begun to feel quite
 keenly the restriction of always being in the presence of his elders.
- 
+
 The village of Winold was not a large one, and he explored it from one end to the other in less than half an
 hour, loitering along its narrow, cobblestoned streets in the crispness of the early evening air. The windows
 of the houses glowed with golden candlelight, and Garion suddenly felt a great surge of homesickness.
@@ -2403,7 +2372,7 @@ Garion stopped.
 "Do you live here?"
 "Yes, sir," Garion lied, trying to keep his voice from trembling.
 "Is there a tavern hereabouts?"
- 
+
 Garion had just explored the town, and he spoke confidently.
 "Yes, sir," he said. "You go on up this street to the next corner and turn to your left. There are torches out
 front. You can't miss it."
@@ -2436,7 +2405,7 @@ following us, I'd rather know what he looks like. I don't like being followed by
 Silk laughed. "Have you ever known me to be otherwise?" he asked. "This won't take long. Where did you
 say that tavern was, Garion?"
 Garion gave him directions.
- 
+
 Silk nodded, his eyes bright and his long nose twitching. He turned, went quickly across the smoky
 common room and out into the chill night.
 "I wonder," Barak considered. "If we're being followed this closely, wouldn't it be better to discard the
@@ -2476,7 +2445,7 @@ pair of heavy woolen hose and winter boots lined with lambswool. "Put these on,"
 could hear the faint murmur of the others talking softly in the adjoining chamber in that curious, hushed
 tone that men always assume when they rise before the sun.
 "We're ready, Mistress Pol," Silk's voice came through the doorway.
- 
+
 "Let's leave then," she said, drawing up the hood of her cloak.
 The moon had risen late that night and shone brightly on the frostsilvered stones outside the inn. Durnik
 had hitched the horses to the wagons and had led them out of the stable.
@@ -2511,7 +2480,7 @@ Garion offered him the reins.
 Garion clucked at the horses and shook the reins slightly. Obediently, the team started out again.
 "The lane circles around to the back of that hill," Silk said, pointing with his chin since his hands were
 tucked inside his tunic. "On the far side there's a copse of fir trees. We'll stop there to rest the horses."
- 
+
 "Do you think we're being followed?" Garion asked.
 "This'll be a good time to find out," Silk said.
 They rounded the hill and drove on down to where the dark firs bordered the road. Then Garion turned the
@@ -2543,7 +2512,7 @@ me."
 are trying to get it back."
 "All right," Silk said. "That much is true."
 "Mister Wolf and Aunt Pol are not at all what they seem to be," Garion went on.
- 
+
 "No," Silk agreed, "they aren't."
 "I think they can do things that other people can't do," Garion said, struggling with the words. "Mister Wolf
 can follow this thing - whatever it is - without seeing it. And last week in those woods when the Murgos
@@ -2577,7 +2546,7 @@ bring himself to believe in the tiniest bit of magic."
 "I am a Sendar," Garion objected. The hint implicit in Silk's observation struck at the very center of his
 sense of his own identity.
 Silk turned and looked at him closely.
- 
+
 "No," he said, "you aren't. I know a Sendar when I see one just as I can recognize the difference between an
 Arend and a Tolnedran or a Cherek and an Algar. There's a certain set of the head, a certain look about the
 eyes of Sendars that you don't have. You're not a Sendar."
@@ -2609,7 +2578,7 @@ The farmer glumly agreed.
 of mine - Brill by name? A medium-sized man with black hair and beard and a cast to one eye?"
 "Patched clothes and a sour disposition?" the stout farmer asked.
 "That's him," Silk said.
- 
+
 "He's been about the area," the farmer said, "looking - or so he said - for an old man and a woman and a
 boy. He said that they stole some things from his master and that he'd been sent to find them."
 "How long ago was that?" Silk asked.
@@ -2641,7 +2610,7 @@ and it was cold and gray as they set out for Muros, fifty leagues to the south.
 Chapter Nine
 THE ALMOST TWO WEEKS it took them to reach Muros were the most uncomfortable Garion had ever
 spent. Their route skirted the edge of the foothills through rolling and sparsely settled country, and the sky
- 
+
 hung gray and cold overhead. There were occasional spits of snow, and the mountains loomed black
 against the skyline to the east.
 It seemed to Garion that he would never be warm again. Despite Durnik's best efforts to find dry firewood
@@ -2680,7 +2649,7 @@ Tempers sometimes flare in the heat of the day's business, and it's best not to 
 under the same roof."
 Garion nodded. "You know," he said as they entered the chambers they had taken for their stay in Muros, "I
 don't think I've ever seen a Nyissan."
- 
+
 "You're lucky," Silk said with distaste. "They're an unpleasant race."
 "Are they like Murgos?"
 "No," Silk said. "The Nyissans worship Issa, the Snake-God, and it's considered seemly among them to
@@ -2712,7 +2681,7 @@ Sendar."
 anything about Rivan kings or Nyissan queens."
 "All you want to do is keep me an ignorant child," Garion said petulantly. "I'm almost a man, and I don't
 even know what I am - or who."
- 
+
 "I know who you are," she said, not looking up.
 "Who am I then?"
 "You're a young man who's about to catch his shoes on fire," she said.
@@ -2743,7 +2712,7 @@ Wolf shook his head. "It slows us too much," he said. "It's not unusual for wago
 Muros without cargo, and it's reaching the point where we'll have to gamble our disguise for the sake of
 speed. It's forty leagues to Camaar, and the weather's turning bad. A heavy snowstorm could stop the
 wagons entirely, and I don't have time to spend the whole winter mired down in a snowbank."
- 
+
 Durnik dropped his knife suddenly and started to scramble to his feet.
 "What's amiss?" Barak asked quickly.
 "I just saw Brill," Durnik said. "He was in that doorway."
@@ -2776,7 +2745,7 @@ on. "Galloping through these narrow streets at night would only attract attentio
 "I'll lead," Barak announced, drawing his sword. "If there's any trouble, I'm best equipped to deal with it."
 "I'll walk along beside you, friend Barak;" Durnik said, hefting a stout cudgel of firewood.
 Barak nodded, his eyes grimly bright, and led his horse out through the gate with Durnik closely at his side.
- 
+
 Taking his lead from Durnik, Garion paused momentarily as he passed the woodpile and selected a good
 oak stick. It had a comforting weight, and he swung it a few times to get the feel of it. Then he saw Aunt
 Pol watching him, and he hurried on without any further display.
@@ -2813,7 +2782,7 @@ and ran.
 "Are you all right, Aunt Pol?" Garion said, crossing the street to where she stood.
 "Of course I am," she snapped. "And don't do that again, young man. Leave street brawling to those better
 suited for it."
- 
+
 "I was all right," he objected. "I had my stick here."
 "Don't argue with me," she said. "I didn't go to all the trouble of raising you to have you end up dead in a
 gutter."
@@ -2846,7 +2815,7 @@ Silk frowned.
 "Go on, Garion," he said.
 "I think he knew where we were going," Garion blurted, struggling against a strange compulsion not to
 speak what his mind saw clearly now.
- 
+
 "And what else do you think?" Wolf asked.
 "Somebody told him," Garion said. "Somebody who knew we were coming here."
 "Mingan knew," Silk said, "but Mingan's a merchant, and he wouldn't talk about his dealings to somebody
@@ -2880,7 +2849,7 @@ The dirk crashed through the window. There was a muffled shout, and the light we
 strange pang in his left arm.
 "Marked him," Silk said with a grin.
 "Good throw," Barak said admiringly.
- 
+
 "One has picked up certain skills," Silk said modestly. "If it was Asharak, I owed him that for deceiving me
 in Mingan's counting room."
 "At least it'll give him something to think about," Wolf said. "There's no point in trying to creep through
@@ -2915,7 +2884,7 @@ two men bowed deeply to Wolf.
 "At once, Ancient One," the elder guard said quickly and hurried to open the gate.
 "What was that about?" Garion whispered to Aunt Pol.
 "Algars are superstitious," she said shortly. "Don't ask so many questions."
- 
+
 They waited with snow settling down upon them and melting on their horses. After about a half hour, the
 gate opened again and two dozen mounted Algars, fierce in their rivet-studded leather vests and steel
 helmets, herded six saddled horses out into the snow.
@@ -2945,7 +2914,7 @@ pick out a landmark in the misty veil of dropping flakes.
 "Think of how your horse must feel." Silk grinned at him.
 "How far is it to Camaar?" Aunt Pol asked.
 "Forty leagues from Muros," Silk told her.
- 
+
 "We'll need shelter then," she said. "We can't gallop forty leagues without rest, no matter who's behind us."
 "I don't think we need to worry about pursuit just now," Wolf said. "The Algars will detain Brill and his
 hirelings or even Asharak if they try to follow us."
@@ -2984,7 +2953,7 @@ snowstorm. Too many things can hide in our path in such weather."
 Garion, who by now was numb with exhaustion, heard these words gratefully as he half drowsed at the
 table. The others sat talking quietly, but he was too tired to listen to what they said.
 "Garion," Aunt Pol said finally, "why don't you go to bed?"
- 
+
 "I'm all right, Aunt Pol," he said, rousing himself quickly, mortified once more at being treated like a child.
 "Now, Garion," she said in that infuriating tone he knew so well. It seemed that all his life she had been
 saying "Now, Garion," to him. But he knew better than to argue.
@@ -3015,7 +2984,7 @@ Aunt Pol moved her head away. "I've asked you not to do that, Garion," she said,
 fact. "You're not ready for it yet.
 "You're going to have to tell me what it is someday," he said.
 "Perhaps," she said, "but not now. Close your eyes and go to sleep."
- 
+
 And then, as if that command had somehow dissolved his will, he fell immediately into a deep, untroubled
 sleep.
 By the next morning it had stopped snowing. The world outside the walls of the imperial hostel was
@@ -3052,7 +3021,7 @@ bath, a clean bed and some decent food. If you don't mind, I'll choose our lodgi
 Aunt Pol threw back her hood and fixed the man with a steely gaze. "I am the Duchess of Erat," she
 announced in ringing tones. "These are my retainers, and my business in Camaar is my own affair."
 The guard blinked and then bowed respectfully.
- 
+
 "Forgive me, your Grace," he said. "I didn't intend to give offense."
 "Indeed?" Aunt Pol said, her tone still cold and her gaze still dangerous.
 "I did not recognize your Grace," the poor man floundered, squirming under that imperious stare. "May I
@@ -3083,7 +3052,7 @@ he said in the most insulting way possible, pulling his horse directly in front 
 merchant. "My mistress, the Duchess of Erat, requires directions to an inn called the Lion. Be so good as to
 provide them."
 The merchant blinked, his face flushing at the rat-faced man's tone.
- 
+
 "Up that street," he said shortly, pointing. "Some goodly way. It will be on your left. There's a sign of a
 Lion at the front."
 Silk sniffed ungraciously, tossed a few coins into the snow at the man's feet and whirled his horse in a
@@ -3120,7 +3089,7 @@ comfortable, and it permits us to move more rapidly."
 Wolf grunted. "I only hope we won't regret all this," he said.
 "Stop grumbling, old man," she told him.
 "Have it your way, Pol." He sighed.
- 
+
 "I intend to," she said.
 "How are we to behave, Mistress Po1?" Durnik asked hesitantly. Her sudden regal manner had obviously
 confused him. "I'm not familiar with the ways of the gentry."
@@ -3151,7 +3120,7 @@ sing to me."
 "You won't be very gracious if you have to listen to me sing," he warned. "My voice isn't very good."
 "You'll do just fine, dear," she said.
 "And I've already been appointed to your Grace's chamberlain," Wolf said.
- 
+
 "My chief steward," she told him. "Manager of my estates and keeper of my purse."
 "Somehow I knew that would be part of it."
 There was a timid rap at the door.
@@ -3184,7 +3153,7 @@ Since Durnik, obviously ill at ease in the luxurious surroundings of their chamb
 stables after breakfast, Garion was left in the company of the giant Barak, who worked patiently with a
 small stone, polishing a nick out of the edge of his sword - a memento of the skirmish in Muros. Garion had
 never been wholly comfortable with the huge, red-bearded man. Barak spoke rarely, and there seemed to be
- 
+
 a kind of hulking menace about him. So it was that Garion spent the morning examining the tapestries on
 the walls of the sitting room. The tapestries depicted knights in full armor and castles on hilltops and
 strangely angular-looking maidens moping about in gardens.
@@ -3219,7 +3188,7 @@ Garion shuddered.
 "Who can say?" Barak shrugged. "He's a twisted and evil God. Some believe that he was made mad when
 he used the Orb of Aldur to crack the world and the Orb repaid him by burning out his eye and consuming
 his hand."
- 
+
 "How could the world be cracked?" Garion asked. "I've never understood that part of the story."
 "The power of the Orb of Aldur is such that it can accomplish anything," Barak told him. "When Torak
 raised it, the earth was split apart by its power, and the seas came in to drown the land. The story's very old,
@@ -3251,7 +3220,7 @@ Sendar - at least I don't look like one."
 Barak looked at him closely. "No," he said finally. "Now that you mention it, you don't. You look more like
 a Rivan than anything else, but not quite that either."
 "Is Aunt Pol a Rivan?"
- 
+
 Barak's eyes narrowed slightly. "I think we're getting to some more of those questions I hadn't better
 answer," he said.
 "I'm going to find out someday," Garion said.
@@ -3284,7 +3253,7 @@ others all standing by the fireplace.
 "Well?" she asked.
 Wolf looked up at her, his eyes still bright. "An excellent choice, Pol," he said admiringly. "Blue has
 always been your best color."
- 
+
 "Do you like it?" she asked, holding out her arms and turning almost girlishly so that they all might see
 how fine she looked. "I hope it pleases you, old man, because it's costing you a great deal of money."
 Wolf laughed. "I was almost certain it would," he said.
@@ -3316,7 +3285,7 @@ name spoken a thousand leagues away."
 "The word isn't one I'd choose," Wolf said. "It's a term used by men who don't understand that particular
 art. Instead let's call him 'thief,' though there are a few other names I might call him which are far less
 kindly."
- 
+
 "Can we be certain that he'll make for the kingdoms of the Angaraks?" Silk asked, frowning. "If that's the
 case, wouldn't it be quicker to take a ship directly to Tol Honeth and pick up his trail on the South Caravan
 Route into Cthol Murgos?"
@@ -3350,7 +3319,7 @@ traveling with some others."
 This one is chief steward to the Duchess of Erat, who honors my inn with her presence."
 "The Duchess of where?" the captain asked sharply.
 "Of Erat," the innkeeper replied. "A most noble lady of great beauty and a commanding presence."
- 
+
 "I wonder if I might have a word with her Grace," the captain said, climbing down from his horse.
 "I'll ask her if she will receive your Honor," the innkeeper replied.
 Barak closed the window.
@@ -3381,7 +3350,7 @@ turned to Aunt Pol.
 importance."
 Aunt Pol looked at him for a moment as if considering the request. "Oh, very well," she said finally. "Show
 him in."
- 
+
 Captain Brendig stepped into the room, and the innkeeper left hurriedly.
 "Your Grace," the captain said, bowing deferentially to Aunt Pol.
 "What is it, Captain?" she demanded.
@@ -3415,7 +3384,7 @@ The question hung in the air between them, and Garion, knowing in sudden panic t
 almost shouted for Barak.
 Then the door to the next chamber opened, and Mister Wolf stepped into the room. "There's no need to
 continue with this," he said. "I'm the one you're looking for. What does Fulrach of Sendaria want with me?"
- 
+
 Brendig looked at him without seeming surprise. "His Majesty did not see fit to take me into his
 confidence," he said. "He will explain it himself, I have no doubt, as soon as we reach the palace at
 Sendar."
@@ -3447,7 +3416,7 @@ Durnik was his oldest friend, and Garion felt a desperate need for friendship ju
 "What could I have done to be put in a dungeon?"
 "I thought that you might have seen one sometime."
 "Honest folk don't go near such places," Durnik said.
- 
+
 "I've heard they're awful-dark and cold and full of rats." "What is this talk of dungeons?" Durnik asked.
 "I'm afraid we may find out all about places like that very soon," Garion said, trying not to sound too
 frightened.
@@ -3480,7 +3449,7 @@ Silk looked at him for a moment and then spoke firmly.
 Garion flushed. "
 I'm afraid of dungeons," he said in a small voice, suddenly very ashamed of himself. "I don't want to be
 locked up in the dark forever when I don't even know what for."
- 
+
 "The kings of Sendaria are just and honest men," Silk told him. "Not too bright, I'm afraid, but always fair."
 "How can they be kings if they aren't wise?" Garion objected.
 "Wisdom's a useful trait in a king," Silk said, "but hardly essential."
@@ -3514,7 +3483,7 @@ certain authority, wouldn't you say, Captain?"
 "Indeed it is," Silk agreed. "Now it wasn't really out of any kind of generosity that Ran Horb made his
 decision, Garion. Don't misunderstand that. Tolnedrans never give anything away. It was just that the
 Mimbrate Arends had finally won the Arendish civil war - a thousand years of bloodshed and treachery -
- 
+
 and Tolnedra couldn't afford to allow the Mimbrates to expand into the north. The creation of an
 independent kingdom in Sendaria would block Mimbrate access to the trade routes down out of Drasnia
 and prevent the seat of world power from moving to Vo Mimbre and leaving the imperial capital at Tol
@@ -3551,7 +3520,7 @@ him in the history of our past, wouldn't you say?"
 "Say whatever you like," Brendig said in a stiff voice.
 "Thank you for your permission, Captain," Silk said, inclining his head. "Do you know what the King of
 Sendaria said then, Garion?" he asked.
- 
+
 "No," Garion said. "What?"
 " 'I pray you, your eminences,' the king said, 'have a care for your finery. I have just well manured the bed
 in which you are kneeling.' "
@@ -3590,7 +3559,7 @@ was a very large building with many stories and broad wings extending out on eac
 courtyard. The entire structure was surmounted by a round tower that was easily the highest edifice in the
 whole city.
 "Where do you suppose the dungeons are?" Garion whispered to Durnik when they stopped.
- 
+
 "I would take it most kindly, Garion," Durnik said with a pained look, "if you would not speak so much of
 dungeons."
 Captain Brendig dismounted and went to meet a fussy-looking man in an embroidered tunic and feathered
@@ -3626,7 +3595,7 @@ that his fears were probably groundless and that his gawking made him appear to 
 bumpkin.
 Count Nilden led them directly to a part of the corndor where there were a number of highly polished
 doors. "This one is for the boy," he announced, pointing at one of them.
- 
+
 One of the soldiers opened the door, and Garion reluctantly stepped through, looking back over his
 shoulder at Aunt Pol.
 "Come along now," a somewhat impatient voice said. Garion whirled, not knowing what to expect.
@@ -3661,7 +3630,7 @@ my clothes. I had to put these on instead." He gestured at his clothes which wer
 something I'm not. I'll wait outside with the horses if I can get my own clothes back."
 "Be patient, Durnik," Barak advised. "We'll get this business with the king straightened out and then be on
 our way again."
- 
+
 If Durnik was angry, Mister Wolf was in what could best be described as a towering fury. He came out into
 the corridor dressed in a snowy white robe, deeply cowled at the back. "Someone's going to pay for this,"
 he raged.
@@ -3696,7 +3665,7 @@ strolled about in fine clothes and chatted idly in the corners, all but ignoring
 "Fulrach knows who I am," Wolf replied shortly and strode down the long scarlet carpet toward the throne
 with Aunt Pol still on his arm. Garion and the others followed, with Brendig and his soldiers close behind,
 through the suddenly quiet crowd of courtiers and their ladies.
- 
+
 At the foot of the throne they all stopped, and Wolf bowed rather coldly. Aunt Pol, her eyes frosty, curtsied,
 and Barak and Silk bowed in a courtly manner. Durnik and Garion followed suit, though not nearly as
 gracefully.
@@ -3734,7 +3703,7 @@ gestures of the Drasnian secret language. Not here. Too many ears about. He then
 Durnik and Garion.
 Aunt Pol stepped forward.
 "This is Goodman Durnik of the District of Erat, your Majesty," she said, "a brave and honest man."
- 
+
 "Welcome, Goodman Durnik," the king said. "I can only hope that men may also one day call me a brave
 and honest man."
 Durnik bowed awkwardly, his face filled with bewilderment. "I'm just a simple blacksmith, your Honor,"
@@ -3768,7 +3737,7 @@ rank, Barak?" he asked.
 "It's all nonsense anyway," Barak said, "but when Anheg became king, someone had to become Clan-Chief.
 In Cherek you can't be both. It's considered unlucky - particularly by the chiefs of the other clans."
 "I can see why they might feel that way." Silk laughed.
- 
+
 "It's an empty title anyway," Barak observed. "There hasn't been a clan war in Cherek for over three
 thousand years. I let my youngest brother act in my stead. He's a simpleminded fellow and easily amused.
 Besides, it annoys my wife."
@@ -3804,7 +3773,7 @@ attention to him and that he was probably safe if he kept his mouth shut and his
 An elderly nobleman with a beautifully curled silvery beard, however, leaned toward him. "You have
 traveled recently, I'm told," he said in a somewhat condescending tone. "How fares the kingdom, young
 man?"
- 
+
 Garion looked helplessly across the table at Silk. What do I say? he gestured with his fingers.
 Tell him that the kingdom fares no better nor no worse than might be anticipated under the present
 circumstances, Silk replied.
@@ -3838,7 +3807,7 @@ said, patting Garion's shoulder, and then he went off chuckling to himself.
 "Of course," Silk said. "Drasnian intelligence knows every adept at our secret speech. Sometimes it's useful
 to permit certain carefully selected messages to be intercepted. Don't ever underestimate the Earl of Seline,
 however. It's not impossible that he's at least as clever as I am, but look how much he enjoyed catching us."
- 
+
 "Can't you ever do anything without being sly?" Garion asked. His tone was a bit grumpy, since he was
 convinced that somehow he had been the butt of the whole joke.
 "Not unless I absolutely have to, my Garion." Silk laughed. "People such as I continually practice deception
@@ -3875,7 +3844,7 @@ put to bed and they need their rest."
 Aunt Pol rose from the couch, and she and Mister Wolf, whose expression hadn't changed, followed the
 king into an adjoining chamber.
 "Well, then," Queen Layla said pleasantly; "what shall we talk about?"
- 
+
 "I am instructed, your Highness, to convey the regards of Queen Porenn of Drasnia to you should the
 occasion arise," Silk said in a courtly manner. "She asks leave of you to broach a correspondence on a
 matter of some delicacy."
@@ -3913,7 +3882,7 @@ movements?"
 "They want to have council with you," the king said. "The Alorns are preparing for war, and even my poor
 Sendaria is being quietly mobilized. If the Accursed One arises now, we're all doomed. The power that's
 been stolen can very possibly be used to awaken him, and his first move will be to attack the west - you
- 
+
 know that, Belgarath. And you also know that until the return of the Rivan King, the west has no real
 defense."
 Garion blinked and started violently, then tried to cover the sudden movement by bending to look at some
@@ -3948,7 +3917,7 @@ out a few things to some thickheaded Alorns. Will you be going with us?"
 "You haven't heard the last of this, Fulrach," Aunt Pol said.
 "Never mind, Pol," Mister Wolf said. "He's only doing what he thinks is right. We'll straighten it all out in
 Val Alorn."
- 
+
 Garion was trembling as he stepped away from the door. It was impossible. His skeptical Sendarian
 upbringing made him at first incapable of even considering such an absurdity. Reluctantly, however, he
 finally forced himself to look the idea full in the face.
@@ -3969,7 +3938,7 @@ nothing quite so much as two moderately prosperous Sendars on a business trip. Q
 to go with them, rode beside her husband, talking earnestly to him with an expression on her face that
 seemed almost to hover on the verge of tears. The party was accompanied by soldiers, cloaked against the
 raw, chill wind off the sea.
- 
+
 At the foot of the street which led down from the palace to the harbor, the stone wharves of Sendar jutted
 out into the choppy water, and there, rocking and straining against the hawsers which held her, was their
 ship. She was a lean vessel, narrow of beam and high-prowed, with a kind of wolfish appearance that did
@@ -4004,7 +3973,7 @@ a long visit."
 "Oh dear," the queen said. She put her arms around the king's neck and buried her face in his shoulder.
 "Now, now," Fulrach said awkwardly.
 "If you don't go now, I'm going to cry right here in public," she said, pushing him away.
- 
+
 The stones of the wharf were slippery, and the slim Cherek ship bobbed and rolled in the chop. The narrow
 plank they had to cross heaved and swayed dangerously, but they all managed to board without accident.
 The sailors slipped the hawsers and took their places at the oars. The lean vessel leaped away from the
@@ -4043,7 +4012,7 @@ rough, but we'll be perfectly safe unless we're unlucky, of course."
 about the Bore."
 "Is it really that bad?" Durnik asked in a sinking voice.
 "I make a special point of not going through it sober," Silk told him.
- 
+
 Barak laughed. "You ought to be thankful for the Bore, Silk," he said. "It keeps the Empire out of the Gulf
 of Cherek. All Drasnia would be a Tolnedran province if it wasn't there."
 "I admire it politically," Silk said, "but personally I'd be much happier if I never had to look at it again."
@@ -4080,7 +4049,7 @@ The ship's prow dipped hideously into the outer edges of the Maelstrom and then 
 huge whirlpool with the oarsmen frantically bending their backs to the frenzied beat of the drum. The wind
 tore at Garion's face, and he clung to his iron ring, keeping his eyes averted from the seething maw gaping
 below.
- 
+
 And then they broke free and shot like a whistling stone through the churning water beyond the Maelstrom.
 The wind of their passage howled in the rigging, and Garion felt half suffocated by its force.
 Gradually the ship slowed in the swirling eddies, but the speed they had gained from the Maelstrom carried
@@ -4112,7 +4081,7 @@ a child anymore. He's not a man yet, but he's not a child either. The problem ne
 special way. I'll take care of it." He stood up. "I think I insist, Pol."
 "You what?"
 "I insist." His eyes hardened.
- 
+
 "Very well," she said in an icy voice, turned, and walked away. "Sit down, Garion," the old man said.
 "Why's she so mean?" Garion blurted.
 "She isn't," Mister Wolf said. "She's angry because you frightened her. Nobody likes to be frightened."
@@ -4144,7 +4113,7 @@ that doesn't really matter. There are things that have to be done, and we're the
 That's what matters. Don't make things more difficult for your Aunt just because the world isn't exactly to
 your liking. That's not only childish, it's ill-mannered, and you're a better boy than that. Now, I really think
 you owe her an apology, don't you?"
- 
+
 "I suppose so," Garion said.
 "I'm glad we had this chance to talk," the old man said, "but I wouldn't wait too long before making up with
 her. You wouldn't believe how long she can stay angry." He grinned suddenly. "She's been angry with me
@@ -4179,7 +4148,7 @@ about him as he waited for Barak to conclude his farewells to Greldik and the sa
 The driver grunted, touched his horses with his whip, and the sleigh started up the street where the others
 had already disappeared. Fur-clad Cherek warriors swaggered up and down the narrow streets, and many of
 them bellowed greetings to Barak as the sleigh passed. At one corner their driver was forced to halt while
- 
+
 two burly men, stripped to the waist in the biting cold, wrestled savagely in the snow in the center of the
 street to the encouraging shouts of a crowd of onlookers.
 "A common pastime," Barak told Garion. "Winter's a tedious time in Val Alorn."
@@ -4210,7 +4179,7 @@ driven out of the city or burned years ago." He climbed back into the sleigh. "L
 driver.
 Garion looked back over his shoulder as they sped away, but the old blind woman was nowhere in sight.
 Chapter Thirteen
- 
+
 THE PALACE OF KING ANHEG Of Cherek was a vast, brooding structure near the center of Val Alorn.
 Huge wings, many of them crumbled into decay with unpaned windows staring emptily at the open sky
 through collapsed roofs, stretched out from the main building in all directions. So far as Garion could tell
@@ -4243,7 +4212,7 @@ the wide doorway.
 "Tragic," the Earl of Seline murmured, shaking his head as they all went up the stairs to the palace door.
 "Hardly that," Silk said. "After all, Barak got what he wanted, didn't he?"
 "You're a cruel man, Prince Kheldar," the earl said.
- 
+
 "Not really," Silk said. "I'm a realist, that's all. Barak spent all those years yearning after Merel, and now
 he's got her. I'm delighted to see such steadfastness rewarded. Aren't you?"
 The Earl of Seline sighed.
@@ -4279,7 +4248,7 @@ Garion found the stilted, archaic form of address strangely impressive.
 "The fat one in the red robe with the reindeer on his banner is my uncle, Rhodar of Drasnia. The lean-faced
 one in black under the horse banner is Cho-Hag of Algaria. The big, grim-faced one in gray with no crown
 who sits beneath the sword banner is Brand, the Rivan Warder."
- 
+
 "Brand?" Garion interrupted, startled as he remembered the stories of the Battle of Vo Mimbre.
 "All Rivan Warders are named Brand," Silk explained.
 King Fulrach greeted each of the other kings in the formal language that seemed to be customary, and then
@@ -4311,7 +4280,7 @@ With an elaborate gesture the queen produced a green jewel and presented it to A
 "A royal gift, Islena," Aunt Pol said in a strange voice. "A pity that I can only offer this in return." She
 handed the queen a single deep red rose.
 "Where did she get that?" Garion asked in amazement. Silk winked at him.
- 
+
 The queen looked at the rose doubtfully and cupped it between her two hands. She examined it closely, and
 her eyes widened. The color drained out of her face, and her hands began to tremble.
 The second queen had stepped forward. She was a tiny blonde with a beautiful smile. Without ceremony
@@ -4346,7 +4315,7 @@ speaking to history as well as to you." His crown had slipped a bit and perched 
 "History's very tolerant, Anheg," Wolf said. "You don't have to try to impress her. She'll forget most of
 what we say anyway." He turned to the Rivan Warder. "Brand," he said, "do you suppose you could explain
 all this without too much embellishment?"
- 
+
 "I'm afraid it's my fault, Belgarath," the gray-robed Warder said in a deep voice. "The Apostate was able to
 carry off his theft because of my laxity."
 "The thing's supposed to protect itself, Brand," Wolf told him. "You can't even touch it. I know the thief,
@@ -4381,7 +4350,7 @@ Anheg looked at Rhodar with one raised eyebrow.
 Rhodar coughed slightly. "It was some time ago, Anheg. Nothing serious. I was just curious about
 something, that's all."
 "All you had to do was ask," Anheg said in a slightly injured tone.
- 
+
 "I didn't want to bother you," Rhodar said with a shrug. "Besides, it's more fun to do it the other way."
 "Friends," King Fulrach said, "the issue before us is too important to chance compromising it. Wouldn't it
 be better to be overcautious rather than take any risks?"
@@ -4415,7 +4384,7 @@ Queen Porenn made a face. "We sit around and watch Islena do tricks - disappeari
 sleeves, that kind of thing," she said. "Or she tells fortunes. Silar's too polite to object, and I'm the youngest,
 so I'm not supposed to say too much. It's terribly dull, particularly when she goes into trances over that
 stupid crystal ball of hers. Did Layla think she could help me?"
- 
+
 "If anyone can," Silk assured her. "I should warn you, though, that her advice is likely to be quite explicit.
 Queen Layla's an earthy little soul, and sometimes very blunt."
 Queen Porenn giggled wickedly. "That's all right," she said. "I'm a grown woman, after all."
@@ -4448,7 +4417,7 @@ suppertime?"
 "The armory, perhaps?" Barak suggested.
 "What would I do in an armory?" Garion demanded.
 "Would you prefer the scullery?" Aunt Pol asked pointedly.
- 
+
 "On second thought, 1 think I might like to see the armory."
 "I thought you might."
 "It's at the far end of this corridor, Garion," Barak said. "The room with the red door."
@@ -4486,7 +4455,7 @@ or sat drinking-even though it was still quite early in the morning; several wer
 game; and some simply sat with their backs against the wall and slept.
 "These Chereks seem to be very idle people," Durnik said quietly to Garion. "I haven't seen anyone actually
 working since we arrived, have you?"
- 
+
 Garion shook his head. "I think these are the king's own warriors," he said just as quietly. "I don't think
 they're supposed to do anything except sit around and wait for the king to tell them to go fight someone."
 Durnik frowned disapprovingly. "It must be a terribly boring way to live," he said.
@@ -4521,7 +4490,7 @@ hall and out into the corridor. "Let's have a look at the kitchen," Garion sugge
 The royal kitchens were enormous. Entire oxen roasted on spits, and whole flocks of geese simmered in
 lakes of gravy. Stews bubbled in cartsized cauldrons, and battalions of loaves were marched into ovens big
 enough to stand in. Unlike Aunt Pol's well-ordered kitchen at Faldor's farm, everything here was chaos and
- 
+
 confusion. The head cook was a huge man with a red face who screamed orders which everyone ignored.
 There were shouts and threats and a great deal of horseplay. A spoon heated in a fire and left where an
 unsuspecting cook would pick it up brought shrieks of mirth, and one man's hat was stolen and deliberately
@@ -4556,7 +4525,7 @@ Durnik and the smith talked together for most of the remainder of the morning wh
 about the inner courtyard watching the various workmen at their tasks. There were coopers and
 wheelwrights, cobblers and carpenters, saddlers and candlemakers, all busily at work to maintain the huge
 household of King Anheg. As he watched, Garion also kept his eyes open for the sandy-bearded man in the
- 
+
 green cloak he'd seen the night before. It wasn't likely that the man would be here where honest work was
 being done, but Garion stayed alert all the same.
 About noon, Barak came looking for them and led them back to the great hall where Silk lounged, intently
@@ -4592,7 +4561,7 @@ Durnik looked unconvinced but let it pass.
 of it by the High Priest of Belar. His voice is very penetrating, and I don't like being called down in front of
 the whole city. A prudent man doesn't give either a priest or a woman the opportunity to scold him in
 public."
- 
+
 The streets of Val Alorn were narrow and crooked, and the ancient stone houses were tall and narrow with
 overhanging second stories. Despite the intermittent snow and the crisp wind, the streets seemed full of
 people, most of them garbed in furs against the chill.
@@ -4626,7 +4595,7 @@ training, and interfering in local politics."
 "Where's this Aloria they spoke of?" Garion asked.
 "All around us," Barak said with a broad gesture. "Aloria used to be all the Alorn kingdoms together. They
 were all one nation. The cultists want to reunite them."
- 
+
 "That doesn't seem unreasonable," Durnik said.
 "Aloria was divided for a reason," Barak said. "A certain thing had to be protected, and the division of
 Aloria was the best way to do that."
@@ -4659,7 +4628,7 @@ stood watching their approach.
 the fittings and sawing the boards, but we won't be able to do much more until spring."
 Barak nodded and walked over to lay his hand on the new wood of a ship prow rising out of the snow.
 "Krendig is building this for me," he said, patting the prow. "She'll be the finest ship afloat."
- 
+
 "If your oarsmen are strong enough to move her," Krendig said. "She'll be very big, Barak, and very
 heavy."
 "Then I'll man her with big men," Barak said, still gazing at the ribs of his ship.
@@ -4690,7 +4659,7 @@ Garion blushed furiously, and Maidee laughed.
 A large red-haired boy in a long tunic slid to a stop nearby and rose with a menacing look on his face.
 "Maidee, come away from there," he ordered.
 "What if I don't want to?" she asked.
- 
+
 The red-haired boy swaggered toward Garion.
 "What are you doing here?" he demanded.
 "I was talking with Maidee," Garion said.
@@ -4720,7 +4689,7 @@ him and then took a large handful of snow and held it to his nose.
 "Are all Sendars so cruel?" Maidee asked.
 "I don't know all the people in Sendaria," Garion said. The affair hadn't turned out well at all, and
 regretfully he turned and started back toward the shipyard.
- 
+
 "Garion, wait," Maidee said. She ran after him and caught him by the arm. "You forgot my kiss," she said,
 threw her arms around his neck and kissed him soundly on the lips.
 "There," she said, and she turned and ran laughing back up the hill, her blond braids flying behind her.
@@ -4757,7 +4726,7 @@ tongue, and then tried another approach.
 "Barak," he asked, "are there many Murgos in Val Alorn?"
 "There aren't any Murgos in Cherek," Barak said. "Angaraks aren't allowed in the kingdom on pain of
 death. It's our oldest law. It was laid down by old Cherek Bear-shoulders himself. Why do you ask?"
- 
+
 "I was just wondering," Garion said lamely. His mind shrieked with the need to tell them about Asharak,
 but his lips stayed frozen.
 That evening, when they were all seated at the long table in King Anheg's central hall with a great feast set
@@ -4795,7 +4764,7 @@ anything about what he did? There was no tie between them, after all, and he cou
 without her permission if he felt like it. He glared at her in sullen anger.
 She caught the look and returned it with a cool expression that seemed almost to challenge him. "Well?"
 she asked.
- 
+
 "Nothing," he said shortly.
 Chapter Fifteen
 THE NEXT MORNING dawned bright and crisp. The sky was a deep blue, and the sunlight was dazzling
@@ -4825,7 +4794,7 @@ Drasnia in this venture."
 Silk's face looked pained.
 "You can be my champion," she said, her eyes sparkling.
 "Have you been reading Arendish epics again, your Highness?" Silk asked acidly.
- 
+
 "Consider it a royal command," she said. "Some fresh air and exercise won't hurt you. You're starting to
 look dyspeptic."
 Silk bowed ironically. "As you wish, your Highness," he said. "I suppose that if things get out of hand I can
@@ -4858,7 +4827,7 @@ She looked at him for a moment.
 "Whatever you say, father," she said at last with deceptive meekness. "I'm sure we'll want to discuss this
 later, though-in private."
 Mister Wolf winced.
- 
+
 Aunt Pol looked at Garion then. "Try to be careful, dear," she said, "and when you come back, we'll have a
 nice long talk, won't we?"
 "Will my Lord require my aid in arming himself for the hunt?" Lady Merel asked in the stilted and
@@ -4890,7 +4859,7 @@ you with his tusks, but instead you kill him with your spear."
 " 'Hardly ever' has an uncomfortable ring of frequency to it, Barak," Silk said, fingering a mail shirt
 hanging on a peg by the door.
 "No sport is very entertaining without a certain element of risk." Barak shrugged, hefting a boar spear.
- 
+
 "Have you ever thought of throwing dice instead?" Silk asked.
 "Not with your dice, my friend." Barak laughed.
 They began pulling on mail shirts while Torvik's huntsmen carried several armloads of boar spears out to
@@ -4926,7 +4895,7 @@ Farmsteads lay muffled in snow along their track. The buildings were all made of
 wooden roofs.
 "These people seem to be indifferent to danger," Durnik said. "I certainly wouldn't want to live in a wooden
 house - what with the possibility of fire and all."
- 
+
 "It's a different country, after all," Garion said. "We can't expect the whole world to live the way we do in
 Sendaria."
 "I suppose not," Durnik sighed, "but I'll tell you, Garion, I'm not very comfortable here. Some people just
@@ -4965,7 +4934,7 @@ terribly alone. What was he doing here? What business had a good, sensible Senda
 endless forests of Cherek, awaiting the charge of a savage wild pig with only a pair of unfamiliar spears for
 company?
 What had the pig ever done to him? He realized that he didn't even particularly like the taste of pork.
- 
+
 He was some distance from the beaten forest track along which their sleighs had passed, and he set his back
 to the oak tree, shivered, and waited.
 He didn't realize how long he had been listening to the sound when he became fully aware of it. It was not
@@ -5000,7 +4969,7 @@ little."
 "What did he say?"
 "Nothing very useful. His kind seldom do."
 "Will he meet us as he said he would?"
- 
+
 "He told me that he would. If you want to believe him, that's your affair."
 The nobleman ignored that.
 "Who arrived with the King of the Sendars?"
@@ -5035,7 +5004,7 @@ before the beast even broke out of the heavy brush. When the boar appeared, Gari
 This was no fat, sleepy porker, but rather a savage, infuriated beast. The horrid tusks jutting up past the
 flaring snout were yellow, and bits of twigs and bark clung to them, mute evidence that the boar would
 slash at anything in his path-trees, bushes or a Sendarian boy without sense enough to get out of his way.
- 
+
 Then a peculiar thing happened. As in the long-ago fight with Rundorig or in the scuffle with Brill's
 hirelings in the dark streets of Muros, Garion felt his blood begin to surge, and there was a wild ringing in
 his ears. He seemed to hear a defiant, shouted challenge and could scarcely accept the fact that it came from
@@ -5075,7 +5044,7 @@ cloth filled with snow to the back of his neck as they flew across the glaring w
 "I mean -,does he seem like himself?"
 "He seems like Barak to me." Silk shrugged. "No, boy, lie still. That wild pig may have cracked your ribs."
 He placed his hands on Garion's chest and gently held him down.
- 
+
 "My boar?" Garion demanded weakly. "Where is it?"
 "The huntsmen are bringing it," Silk said. "You'll get your triumphal entry. If I might suggest it, however,
 you should give some thought to the virtue of constructive cowardice. These instincts of yours could
@@ -5106,7 +5075,7 @@ THE NEXT DAY Garion was too stiff and sore to even think about getting out of be
 however, kept him too occupied to think about his aches and pains. The visits from the Alorn Kings in their
 splendid robes were particularly flattering, and each of them praised his courage. Then the queens came
 and made a great fuss over his injuries, offering warm sympathy and gentle, stroking touches to his
- 
+
 forehead. The combination of praise, sympathy and the certain knowledge that he was the absolute center
 of attention was overwhelming, and his heart was full.
 The last visitor of the day, however, was Mister Wolf, who came when evening was creeping through the
@@ -5138,7 +5107,7 @@ all."
 "I was brave, wasn't I?"
 "I'm sure you were, dear," she said. "And I'm sure the pig was very impressed."
 "You're as bad as Mister Wolf is," Garion accused.
- 
+
 "Yes, dear," she said, "I suppose I probably am, but that's only natural. Now, what would you like for
 supper?"
 "I'm not hungry," Garion said defiantly.
@@ -5173,7 +5142,7 @@ Garion sat alone, wounded to the quick by his exclusian. He was at an age where 
 tender, and inwardly he writhed at the lack of regard implicit in his not being invited to join them. Hurt and
 offended, he sulkily left the great hall and went to visit his boar which hung in an ice-filled cooling room
 just oti the kitchen. At least the boar had taken him seriously.
- 
+
 One could, however, spend only so much time in the company of a dead pig without becoming depressed.
 The boar did not seem nearly so big as he had when he was alive and charging, and the tusks were
 impressive but neither so long nor so sharp as Garion remembered them. Besides, it was cold in the cooling
@@ -5220,7 +5189,7 @@ a slight movement. The green cloaked man lurked there, listening in the dimness 
 to come from somewhere beneath. Garion shrank back against the wall, scarcely daring to breathe.
 Carefully he stepped backward until he found another embrasure and drew himself into the concealing
 darkness.
- 
+
 "A most appropriate question, Belgarath," the quiet voice of ChoHag of the Algars said. "Can this Apostate
 use the power now in his hands to revive the Accursed One?"
 "The power is there," the familiar voice of Mister Wolf said, "but he might be afraid to use it. If it isn't done
@@ -5262,7 +5231,7 @@ King Fulrach spoke then in a troubled voice. "It's easy for the Alorn Kings to t
 are warriors; but my Sendaria is a peaceful kingdom. We don't have castles or fortified keeps, and my
 people are farmers and tradesmen. Kal Torak made a mistake when he chose the battlefield at Vo Mimbre;
 and it's not likely that the Angaraks will make the same mistake again. I think they'll strike directly across
- 
+
 the grasslands of northern Algaria and fall upon Sendaria. We have a lot of food and very few soldiers. Our
 country would provide an ideal base for a campaign in the west, and I'm afraid that we'd fall quite easily."
 Then, to Garion's amazement, Durnik spoke. "Don't cheapen the men of Sendaria so, Lord King," he said in
@@ -5299,7 +5268,7 @@ answer.
 There was a long silence inside the room, and finally a slow movement. Then the door opened.
 Barak's appearance was shocking. His tunic was rumpled and stained. His red beard was matted, the long
 braids he usually wore were undone, and his hair was tangled. The haunted look in his eyes, however, was
- 
+
 the worst. The look was a mixture of horror and self loathing so naked that Garion was forced to avert his
 eyes.
 "You saw it, didn't you, boy?" Barak demanded "You saw what happened to me out there."
@@ -5334,7 +5303,7 @@ the mountains and live with the trolls."
 going to be a wolf or a bear or some kind of monster no one even has a name for?"
 "Don't you remember anything at all about what happened?" Garion asked carefully, trying to blot the
 strange double image of Barak and the bear out of his memory.
- 
+
 "Nothing," Barak said. "I heard you shouting, and the next thing I remember was the boar lying dead at my
 feet and you lying under that tree with his blood all over you. I could feel the beast in me, though. I could
 even smell him."
@@ -5368,7 +5337,7 @@ room with a raging beast?"
 "If you grow unmanageable, my Lord, I can always have you chained to the wall," she suggested, meeting
 his enraged glare with cool unconcern.
 "Barak," Garion said uncomfortably, "I have to talk to you."
- 
+
 "Not now, Garion," Barak snapped.
 "It's important. There's a spy in the palace."
 "A spy-",
@@ -5399,7 +5368,7 @@ men 'my Lord,' and that one was giving him orders to get close enough so that he
 Wolf and the kings were saying."
 "That's more serious," Barak said, seeming to forget his melancholy. "Did they say anything else?"
 "The flaxen-haired man wanted to know about us," Garion said. "You, me, Durnik, Silk - all of us."
- 
+
 "Flaxen-colored hair?" Merel asked quickly.
 "The one he called 'my Lord,' " Garion explained. "He seemed to know about us. He even knew about me."
 "Long, pale-colored hair?" Merel demanded. "No beard? A little older than Barak?"
@@ -5434,7 +5403,7 @@ with red gold from the mines of Cthol Murgos. I'd have had his head on a pole, b
 of mine and she begged for his life. I banished him to one of his estates on the west coast instead." He
 looked at Barak. "How did you find out about this?" he asked. "Last I heard, you'd locked yourself in your
 room and wouldn't talk to anybody."
- 
+
 "My husband's words are true, Anheg," Lady Merel said in a voice that rang with challenge.
 "I don't doubt him, Merel," Anheg said, looking at her with a faintly surprised expression. "I just wanted to
 know how he learned about Jarvik, that's all."
@@ -5466,7 +5435,7 @@ Garion nodded again.
 him."
 "Then you've seen him before?" Silk said.
 "Yes," Garion said.
- 
+
 "And you've never told anybody?"
 "No."
 Silk glanced quickly at Aunt Pol. "Is this the sort of thing you might know more about than we would,
@@ -5502,7 +5471,7 @@ about all this."
 "Up there," Silk said, standing near one of the walls and pointing at a corner of the ceiling of the hall. "The
 mortar's crumbled away. The sound of our voices carries right up through the cracks between the stones
 into the upper corridor."
- 
+
 "This is a valuable boy you've brought with you, Lady Polgara," I King Rhodar said gravely. "If he's
 looking for a profession, I think I might find a place for him. Gathering information is a rewarding
 occupation, and he seems to have certain natural gifts along those lines."
@@ -5533,7 +5502,7 @@ Anheg sighed. "Must it always be duty, Merel?" he asked sadly.
 "It's there," she said. "It's very light, or I'd have noticed it before. I'm sorry, Father."
 "Let's see," Wolf said. He came over and also touched Garion's heart with his hand. "It's not serious," he
 said.
- 
+
 "It could have been," Aunt Pol said. "And it was my responsibility to see that something like this didn't
 happen."
 "Don't flog yourself about it, Pol," Wolf said. "That's very unbecoming. Just get rid of it."
@@ -5564,7 +5533,7 @@ It's important, Garion, so concentrate as hard as you can."
 "All right, Aunt Pol," he said.
 Then she kissed him lightly on the forehead. "Run along now, dear," she said.
 Feeling strangely light-headed, Garion went to the door and out into the corridor.
- 
+
 He passed through the great hall where Anheg's warriors were belting on swords and picking up viciouslooking
 battle-axes in preparation for the search of the palace. Still bemused, he went through without
 stopping.
@@ -5604,7 +5573,7 @@ steelpointed shaft was loosed. The arrow sang in the air and clattered against t
 feet to Garion's left.
 "Alive, idiot," Asharak snarled and struck the bowman a crushing blow to the side of the head. The
 bowman fell twitching to the stone floor.
- 
+
 Garion spun, dashed back to the stairs and plunged down three steps at a time. He didn't bother to look
 back. The sound of heavy feet told him that Asharak and his men were after him. At the bottom of the
 stairs, he turned sharply to the left and fled down a long, dark passageway that led back into the maze of
@@ -5644,7 +5613,7 @@ the axe lunged down.
 The axe swung wide, missed and clashed a shower of sparks from the stones of the wall. The sword was
 more true. With his hair standing on end in horror, Garion saw it slide through the downward-plunging
 body of the axeman. The axe fell clattering down the stairs, and the axeman, still falling on top of his
- 
+
 opponent, pulled a broad dagger from its sheath at his hip and drove it into the chest of his enemy. The
 impact as the two men came together tore them from their feet, and they tumbled, still grappled together
 down the stairs, their daggers flashing as each man struck again and again.
@@ -5688,7 +5657,7 @@ he would fall. The picture of a steep stairway dropping down into the blackness 
 and he realized that at his present pace there would be no possible way to catch himself. He began to move
 more cautiously, one hand on the stones of the wall and the other in front of his face to ward off the
 cobwebs which hung thickly from the low ceiling.
- 
+
 There was no sense of time in the dark, and it seemed to Garion that he had been groping for hours in this
 dark hallway that appeared to go on forever. Then, despite his care, he ran full into a rough stone wall. He
 felt a moment of panic. Did the passageway end here? Was it a trap?
@@ -5726,7 +5695,7 @@ talk."
 "We'll see about that," Anheg said grimly.
 "That won't be necessary, Anheg," Aunt Pol said, walking slowly toward the captive. "There's an easier
 way to persuade him."
- 
+
 "I'm not going to say anything," Jarvik told her. "I'm a warrior and I'm not afraid of you, witch-woman."
 "You're a greater fool than I thought, Lord Jarvik," Mister Wolf said. "Would you rather I did it, Pol?"
 "I can manage, Father," she said, not taking her eyes off Jarvik.
@@ -5759,7 +5728,7 @@ my eyes off it. I did need money - who doesn't after all?-and I really couldn't 
 what he asked.
 "Anyway, I carried him and his cargo to Darine and met his associate - a Murgo named Asharak."
 Garion started at the name, and he heard Silk's low whistle of surprise.
- 
+
 "As we'd agreed," Jarvik continued, "Asharak paid me a sum equal to what Grashor had given me, and I
 came away from the affair with a whole pouch of gold. Asharak told me that I'd done them a great favor
 and that if I ever needed more gold, he'd be happy to find ways for me to earn it.
@@ -5800,7 +5769,7 @@ for making you king?"
 "A thing so small that I laughed when he told me what he wanted," Jarvik said. "But he said that he'd not
 only give me the crown but a roomful of gold if I'd get it for him."
 "What was it?" Wolf repeated.
- 
+
 "He said that there was a boy - about fourteen - in the party of King Fulrach of Sendaria. He told me that as
 soon as that boy was delivered to him, he'd give me more gold than I could count and the throne of Cherek
 as well."
@@ -5829,7 +5798,7 @@ nervously. "All he has to do is follow it."
 "And walk directly into the arms of Asharak the Murgo?" Aunt Pol asked. "He's better off staying where he
 is."
 "Asharak is fleeing for his life," Anheg said. "He's no-where in the palace."
- 
+
 "As I recall, he's not even supposed to be in the kingdom," she said pointedly.
 "All right Pol," Mister Wolf said. He called up, "Garion, which way does the passage run?"
 "It seems to go on toward the back of the hall where the thrones are," Garion answered. "I can't tell for sure
@@ -5861,7 +5830,7 @@ Several warriors were coming down the corridor, and Garion recognized Torvik the
 "It wasn't my idea," Garion said.
 "Let's get you back to King Anheg," Torvik said. "The lady, your Aunt, seemed concerned about you."
 "She's angry with me, I suppose," Garion said, falling into step beside the broad-shouldered man.
- 
+
 "More than likely," Torvik said. "Women are almost alwasy angry with us for one reason or another. It's
 one of the things you'll have to get used to as you get older."
 Aunt Pol was waiting at the door to the throne room. There were no reproaches - not yet, at any rate. For
@@ -5896,7 +5865,7 @@ mountains and forests for him. They get fat and troublesome in the wintertime an
 something to do."
 "Driving fat, troublesome warriors into the snow in the dead of winter isn't going to make you a popular
 king, Anheg," Rhodar observed.
- 
+
 "Offer a reward," Silk suggested. "That way you get the job done and stay popular as well."
 "That's an idea," Anheg said. "What kind of reward would you suggest, Prince Kheldar?"
 "Promise to equal the weight of Asharak's head in gold," Silk said. "That should lure the fattest warrior
@@ -5931,7 +5900,7 @@ search opens the mind completely. If Asharak felt you looking for him he'd retal
 wouldn't be in any danger, but I'm afraid your mind could be blown out like a candle. It would be a great
 shame to have the Queen of Cherek live out the rest of her life as a raving lunatic."
 Islena turned suddenly very pale and did not see the sly wink Mister Wolf directed at Anheg.
- 
+
 "I couldn't permit it.," Anheg said firmly. "My Queen is far too precious for me to allow her to take such a
 terrible risk."
 "I must accede to the will of my Lord," Islena said in a relieved tone. "By his command I withdraw my
@@ -5964,7 +5933,7 @@ King Anheg posted guards at the foot of the stairs, then came up and closed the 
 Barak nodded and put a torch to the wood in the fireplace.
 The chamber was round and not too spacious, but there was adequate room for them all and chairs and
 benches to sit on.
- 
+
 Mister Wolf stood at one of the windows, looking down at the twinkling lights of Val Alorn below. "I've
 always been fond of towers," he said, almost to himself. "My Master lived in one like this, and I enjoyed
 the time I spent there."
@@ -5999,7 +5968,7 @@ same talents I have. Let the Ancient One choose another."
 Hettar looked at him sharply as if trying to tell him something with his eyes.
 King Cho-Hag drew his breath sharply. "Hettar," he asked, "is this true?"
 Hettar shrugged. "It may be, Father," he said. "I didn't think it was important."
- 
+
 Cho-Hag looked at Mister Wolf.
 Wolf nodded. "It's true," he said. "I knew it the first time I saw him. He's a Sha-Dar. He had to find out for
 himself, though."
@@ -6034,7 +6003,7 @@ Wolf shrugged, his bright blue eyes twinkling suddenly. "I don't object to fulfi
 "Is there anything we can do to help in the search?" Brand asked.
 You'llhave enough to do," Wold said. "No matter how our search turns out, it's obvious that the Angaraks
 are getting ready for some kind of major action. If we're successful, they might hesitate, but Angaraks don't
- 
+
 think the way we do. Even after what happened at Vo Mimbre, they may decide to risk an all-out attack on
 the west. It could be that they are responding to prophecies of their own that we don't know anything about.
 In any event, I think you should be ready for something fairly major from them. You'll need to make
@@ -6077,7 +6046,7 @@ Anheg stepped over to Mister Wolf. "Could you come by my study in an hour or so,
 quietly. "I'd like to have a few words with you and Polgara before your departure."
 "If you wish, Anheg," Mister Wolf said.
 "Come along, Garion," Aunt Pol said. "We have packing to take care of."
- 
+
 Garion, a little awed at the solemnity of the discussions, rose quietly and followed her to the door.
 Chapter Twenty
 King Anheg's study was a large, cluttered room high in a square tower. Books bound in heavy leather lay
@@ -6110,7 +6079,7 @@ all costs. Several of my books speak of it."
 "You read too much, Anheg," Aunt Pol said.
 Anheg laughed again. "It passes the time, Polgara," he said. "The alternative is drinking with my earls, and
 my stomach's getting a little delicate for that - and my ears as well. Have you any idea of how much noise a
- 
+
 hall full of drunk Chereks can make? My books don't shout or boast and they don't fall down or slide under
 the tables and snore. They're much better company, really."
 "Foolishness," Aunt Pol said.
@@ -6144,7 +6113,7 @@ know that it's forbidden."
 "It's only a book, Pol," Mister Wolf said. "It doesn't have any power unless it's permitted to."
 "Besides," Anheg said, rubbing thoughtfully at the side of his face, "the book gives us clues to the mind of
 our enemy. That's always a good thing to know."
- 
+
 "You can't know Torak's mind," Aunt Pol said, "and it's dangerous to open yourself to him, He can poison
 you without your even knowing what's happening."
 "I don't think there's any danger of that, Pol," Wolf said. "Anheg's mind is well-trained enough to avoid the
@@ -6179,7 +6148,7 @@ The sun was very bright, and the air was crisp. Garion rode silently with Silk a
 "Chereks are a violent and moody people," Silk said. "They don't even understand themselves."
 "It's not just the Chereks," Garion said, struggling with the words. "It's Aunt Pol and Mister Wolf and
 Asharak - all of it. Things are happening too fast. I can't get it all sorted out."
- 
+
 "Events are like horses," Hettar told him. "Sometimes they run away. After they've run for a while, though,
 they'll start to walk again, Then there'll be time to put everything together."
 "I hope so," Garion said dubiously and fell silent again.
@@ -6215,7 +6184,7 @@ There was in her scream a wrenching note of indescribable loss.
 "You can do that?" Islena asked, her face blanching and her voice weak.
 "Can't you? It's a simple thing, really."
 "But," Queen Porenn objected, "with her eyes restored, she'll lose that other vision, won't she?"
- 
+
 "I imagine so," Aunt Pol said, "but that's a small price to pay, isn't it?"
 "She'll no longer be a witch, then?" Porenn pressed.
 "She wasn't a very good witch anyway," Aunt Pol said. "Her vision was clouded and uncertain. It's better
@@ -6249,7 +6218,7 @@ Islena's eyes widened. "Does Anheg know?" she asked in a stricken voice.
 very close to the edge of treason. You ought to have a few babies. They'd give you something useful to do
 with your time and keep you out of trouble. That's only a suggestion, of course, but you might think it over.
 I've enjoyed our visit, dear. Thank you for your hospitality." And with that she turned and walked away.
- 
+
 Silk whistled softly. That explains a few things," he said.
 "Explains what?" Garion asked.
 "The High Priest of Belar's been dabbling in Cherek politics lately. He's obviously gone a bit further than
@@ -6284,7 +6253,7 @@ my Queen. It won't be long until you're as corrupt as the rest of us."
 "Boktor is full of intrigue, Kheldar," the queen said primly. "It isn't just the Bear-cult, you know. Merchants
 from all over the world gather in our city, and at least half of them are spies. I have to protect myself - and
 my husband."
- 
+
 "Does Rhodar know what you're up to?" Silk asked slyly.
 "Of course he does," she said. "He gave me my first dozen spies himself - as a wedding present.
 "How typically Drasnian," Silk said.
@@ -6317,7 +6286,7 @@ deck.
 "Give our daughters my love," Barak said to his wife.
 "I will, my Lord," Merel said in the same stiffly formal tone she always used with him. "Have you any
 other instructions?"
- 
+
 "I won't be back for some time," Barak said. "Plant the south fields to oats this year, and let the west fields
 lie fallow. Do whatever you think best with the north fields. And don't move the cattle up to the high
 pastures until all the frost is out of the ground."
@@ -6347,7 +6316,7 @@ Mister Wolf grinned and then walked forward toward the prow of Greldik's ship. G
 followed him. There were questions which needed answers, and the old man would know if anyone would.
 "Mister Wolf," he said when they had both reached the high prow.
 "Yes, Garion?"
- 
+
 He was not sure where to start, so Garion approached the problem obliquely. "How did Aunt Pol do that to
 old Martje's eyes?"
 "The Will and the Word," Wolf said, his long cloak whipping about him in the stiff breeze. "It isn't
@@ -6382,7 +6351,7 @@ really necessary. Your Aunt has always seemed to want to gesture when she makes 
 been trying to break her of that habit for hundreds of years now."
 Garion blinked. "Hundreds of years?" he gasped. "How old is she?"
 "Older than she looks," Wolf said. "It isn't polite to ask questions about a lady's age, however."
- 
+
 Garion felt a sudden, shocking emptiness. The worst of his fears had been confirmed. "Then she isn't really
 my Aunt, is she?" he asked sickly.
 "What makes you say that?" Wolf asked.
@@ -6415,7 +6384,7 @@ Greldik's sailors untied the hawsers and began to push the ship away from the qu
 "Yes."
 "And she's your daughter."
 "I have to admit that she is," Wolf said wryly. "I try to forget that sometimes, but I can't really deny it."
- 
+
 Garion took a deep breath and plunged directly into it. "If she's my Aunt, and you're her father," he said,
 "wouldn't that sort of make you my Grandfather?"
 Wolf looked at him with a startled expression. "Why yes," he said, laughing suddenly, "I suppose that in a
@@ -6448,7 +6417,7 @@ The hatred builds up over the years until it turns into something almost like a 
 us, but everything connected with us. Anyway, a long time ago your family's enemies became so dangerous
 that your Aunt and I decided that the only way we could protect the family was to hide it."
 "You aren't telling me everything," Garion said.
- 
+
 "No," said Wolf blandly, "I'm not. I'm telling you as much as it's safe for you to know right now. If you
 knew certain things, you'd act differently, and people would notice that. It's safer if you remain ordinary for
 a while longer."
@@ -6485,7 +6454,7 @@ happened to be away when this enemy finally tracked down Geran and Ildera. He ca
 early one morning while they were still sleeping and he sealed up the doors and windows. And then he set
 it on fire."
 "I thought you said the house was made of stone."
- 
+
 "It was," Wolf said, "but you can make stone burn if you really want to. The fire just has to be hotter, that's
 all. Geran and Ildera knew there was no way they could get out of the burning building, but Geran managed
 to knock one of the stones out of the wall, and Ildera pushed you out through the hole. The one who started
@@ -6519,7 +6488,7 @@ something before you're ready."
 just killing him." He stood up and began to pace back and forth, a rage boiling in him.
 "I don't suppose I'll be able to talk you out of this," Wolf said, "but I really think you're going to feel
 differently about it after it's over."
- 
+
 "Not likely," Garion said, still pacing.
 "We'll see," Wolf said.
 "Thank you for telling me, Grandfather," Garion said.
@@ -6547,19 +6516,3 @@ their right as the sailors rowed the ship south towards Camaar and whatever lay 
 Here ends Book One of the Belgariad. Book Two, Queen of Sorcery
 will reveal Garion's own dangerous powers of sorcery and more on his heritage, which underlies their
 quest.
- 
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-wordle_v1/passage_3.txt at main · PaulHermans-Baldwin/wordle_v1
